@@ -8,7 +8,7 @@
 
 ### Reshuffle Redis Connector
 
-This package contains a [Resshufle](https://github.com/reshufflehq/reshuffle)
+This package contains a [Reshuflle](https://github.com/reshufflehq/reshuffle)
 connector to Redis databases.
 
 The following example sets and gets a value from Redis:
