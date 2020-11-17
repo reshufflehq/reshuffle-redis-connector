@@ -112,7 +112,7 @@ All operations either succeed or fail together.
 #### <a name="sdk"></a> SDK action
 
 The `sdk()` action provides raw access to the async version of [npm redis](https://www.npmjs.com/package/redis). The following actions are provided
-as covenience wrappers for its corresponding async methods. 
+as convenience wrappers for its corresponding async methods. 
 
 For instance, calling `redis.sdk().append()` is equivalent to `redis.append()`. You can
 access the methods not listed below using the `redis.sdk().` notation.
