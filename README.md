@@ -47,7 +47,7 @@ main()
 
 [transaction](#transaction) Run a sequence of queries inside a transaction
 
-[sdk](#sdk) Retrieve an `sdk` object which allows direct calls to redis
+[sdk](#sdk) Returns the Node Redis Client that allows direct calls to the underlying redis
 
 [close](#close) Close redis connections
 
