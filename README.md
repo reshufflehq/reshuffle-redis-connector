@@ -2,13 +2,13 @@
 
 [Code](https://github.com/reshufflehq/reshuffle-redis-connector) |
 [npm](https://www.npmjs.com/package/reshuffle-redis-connector) |
-[Code sample](https://github.com/reshufflehq/reshuffle-redis-connector/examples)
+[Code sample](https://github.com/reshufflehq/reshuffle-redis-connector/tree/master/examples)
 
 `npm install reshuffle-redis-connector`
 
 ### Reshuffle Redis Connector
 
-This package contains a [Reshuffle](https://github.com/reshufflehq/reshuffle)
+This package contains a [Reshuffle](https://reshuffle.com)
 connector to Redis databases.
 
 The following example sets and gets a value from Redis:
