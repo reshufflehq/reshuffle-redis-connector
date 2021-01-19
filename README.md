@@ -2,7 +2,7 @@
 
 [Code](https://github.com/reshufflehq/reshuffle-redis-connector) |
 [npm](https://www.npmjs.com/package/reshuffle-redis-connector) |
-[Code sample](https://github.com/reshufflehq/reshuffle-redis-connector/examples)
+[Code sample](https://github.com/reshufflehq/reshuffle-redis-connector/tree/master/examples)
 
 `npm install reshuffle-redis-connector`
 
